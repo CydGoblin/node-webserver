@@ -11,12 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15",
-    "ts-node": "^10.4.0",
     "@types/express": "^4.17.13",
     "@types/node": "^17.0.8",
     "@types/hbs": "^4.0.1"
   },
   "dependencies": {
+    "ts-node": "^10.4.0",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
     "hbs": "^4.2.0",
